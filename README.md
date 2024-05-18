@@ -2,7 +2,7 @@
 <img src="https://i.pinimg.com/originals/16/94/5c/16945c320155f09714d53df27c81370a.gif" width="60px"/>
 <img src="https://64.media.tumblr.com/a3e236c93c6c76f09a97bfa2f039dbbd/tumblr_mrfo0dyD4Q1rfjowdo1_500.gifv" width="60px"/>
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=000&height=300&section=header&text=@DanArcherOnline&fontSize=50&fontColor=00F78D&desc=SECURITY%20ENGINEER&&fontAlignY=40&descAlignY=55&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=000&height=300&section=header&text=@DanArcherOnline&fontSize=50&fontColor=00F78D&desc=FULL-STACK%20SOFTWARE%20ENGINEER&&fontAlignY=40&descAlignY=55&animation=fadeIn)
 <!--https://github.com/kyechan99/capsule-render-->
 ### Hey! Thanks for popping by <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 <br/>
@@ -18,7 +18,7 @@ const dan = {
   nationality: "British",
   dob: new Date(Date.parse('November 29, 1991')),
   currentLocation: "Tokyo, Japan",
-  cyberSecurityInterests: ["Web Security", "Penetration Testing", "Red Teaming", "Purple Teaming"],
+  interests: ["Software Architecture", "System Design", "Cyber Security"],
   hobbies: [
     "Tricking", "Parkour", "MMA", "CTFs", "Movies/Anime/TV Shows",
     "Eating", "Dev Projects", "Studying Japanese", "Board & Card Games"
@@ -82,8 +82,10 @@ const dan = {
 	<code><img width="22" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu"/></code>
 </div>
 
+<!--
 ### Some Stuff I Studied <img src="https://64.media.tumblr.com/tumblr_macxenoiWY1rfjowdo1_500.gifv" width="30px"/>
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64775f0fc4ec366ad5b4d6d3?variant=dark)](https://roadmap.sh)
+-->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=000&height=300&section=footer)
